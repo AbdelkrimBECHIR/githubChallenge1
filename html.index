@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Changement du titre de la page</title>
   <h1> ajout d'un paragaphe<h1>
+  <h2> ajout d'un 2eme paragraphe<h2>
   <link rel="stylesheet" href="style.css">
   <script src="script.js"></script>
 </head>
